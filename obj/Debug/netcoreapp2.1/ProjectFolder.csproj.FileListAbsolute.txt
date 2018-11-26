@@ -1,0 +1,15 @@
+F:\ProjectFolder\bin\Debug\netcoreapp2.1\ProjectFolder.deps.json
+F:\ProjectFolder\bin\Debug\netcoreapp2.1\ProjectFolder.runtimeconfig.json
+F:\ProjectFolder\bin\Debug\netcoreapp2.1\ProjectFolder.runtimeconfig.dev.json
+F:\ProjectFolder\bin\Debug\netcoreapp2.1\ProjectFolder.dll
+F:\ProjectFolder\bin\Debug\netcoreapp2.1\ProjectFolder.pdb
+F:\ProjectFolder\obj\Debug\netcoreapp2.1\ProjectFolder.csprojAssemblyReference.cache
+F:\ProjectFolder\obj\Debug\netcoreapp2.1\ProjectFolder.csproj.CoreCompileInputs.cache
+F:\ProjectFolder\obj\Debug\netcoreapp2.1\ProjectFolder.AssemblyInfoInputs.cache
+F:\ProjectFolder\obj\Debug\netcoreapp2.1\ProjectFolder.AssemblyInfo.cs
+F:\ProjectFolder\obj\Debug\netcoreapp2.1\ProjectFolder.dll
+F:\ProjectFolder\obj\Debug\netcoreapp2.1\ProjectFolder.pdb
+F:\ProjectFolder\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+F:\ProjectFolder\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+F:\ProjectFolder\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+F:\ProjectFolder\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
