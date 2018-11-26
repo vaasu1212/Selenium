@@ -28,7 +28,7 @@ FirefoxDriverService service = FirefoxDriverService.CreateDefaultService("F:\\Pr
 //service.Port = 64444;
 
 driver = new FirefoxDriver(service);
-Console.WriteLine("Selenium Test1");
+Console.WriteLine("Selenium Test script");
 driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(30);
 
 driver.Url ="https://code.visualstudio.com/";
