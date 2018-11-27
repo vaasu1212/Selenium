@@ -24,9 +24,9 @@ public void SetupTest()
 
 //FirefoxDriverService service = FirefoxDriverService.CreateDefaultService(@”/Users/rakeshprabhakaran/Project/c#/expOne/lib/”, “geckodriver”);
 //FirefoxDriverService service = FirefoxDriverService.CreateDefaultService("F:\\ProjectFolder\\Drivers", "geckodriver.exe");
-var relpath=@"/Drivers";
-Console.WriteLine($AGENT_HOMEDIRECTORY);
-FirefoxDriverService service = FirefoxDriverService.CreateDefaultService("/Drivers", "geckodriver.exe");
+var relpath=$AGENT_HOMEDIRECTORY;
+//Console.WriteLine($AGENT_HOMEDIRECTORY);
+FirefoxDriverService service = FirefoxDriverService.CreateDefaultService($AGENT_HOMEDIRECTORY +"/Drivers", "geckodriver.exe");
 //service.Port = 64444;
 
 driver = new FirefoxDriver(service);
