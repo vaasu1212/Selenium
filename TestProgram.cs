@@ -33,7 +33,7 @@ driver = new FirefoxDriver(service);
 
 driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(30);
 
-driver.Url ="https://code.visualstudio.com/";
+driver.Url ="https://code.visualstudio.com";
 
 }
 
